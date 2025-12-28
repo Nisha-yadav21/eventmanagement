@@ -14,6 +14,7 @@ public class ProgramOne {
             System.out.println(str + " is a palindrome.");
         } else {
             System.out.println(str + " is not a palindrome..");
+            System.out.println(str + " is a test.");
         }
     }
 }
